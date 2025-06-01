@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hav142&theme=tokyonight)
 -->
 
-![My GitHub Stats](https://github-readme-stats-gamma-ashy-44.vercel.app/api?username=hav142&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats-gamma-ashy-44.vercel.app/api/top-langs/?username=hav142&layout=compact&theme=tokyonight&count_private=true)
+![My GitHub Stats](https://github-readme-stats-git-master-hav142s-projects.vercel.app/api?username=hav142&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats-git-master-hav142s-projects.vercel.app/api/top-langs/?username=hav142&layout=compact&theme=tokyonight&count_private=true)
